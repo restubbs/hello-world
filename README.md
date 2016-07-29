@@ -1,2 +1,3 @@
 # hello-world
-Just going through the tutorial to learn how to use GitHub. 
+
+I'm a complete amateur hobbyist but I love learning about programming!
